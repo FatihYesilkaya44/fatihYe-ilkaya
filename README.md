@@ -1,0 +1,2 @@
+# fatihYe-ilkaya
+algoritma ödevi
